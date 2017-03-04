@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NetworkClass.(downloadData(arcType : AcronymType, parameter : String, success : (Any?, URLResponse?) -&gt; (), failure : (Error?) -&gt; ()) -&gt; ()).(closure #1).(closure #1):NetworkClass.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(jsonDict as! NSArray)[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
